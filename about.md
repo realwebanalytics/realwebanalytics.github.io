@@ -12,4 +12,10 @@ permalink: /about/
 
 ### Добавить email
 
-[email@domain.com](mailto:email@domain.com)
+[Денис Соловьев](mailto:solovyev@realweb.ru>)
+[Екатерина Габдеева](mailto:gabdeeva@realweb.ru)
+[Елена Рубцова](mailto:rubcova@realweb.ru)
+[Матвей Ряшенцев](mailto:ryashencev@realweb.ru)
+[Надежда Данилова](mailto:danilova@realweb.ru)
+[Павел Логинов](mailto:loginov@realweb.ru)
+[Яна Саулова](mailto:saulova@realweb.ru)
