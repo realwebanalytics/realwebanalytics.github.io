@@ -1,15 +1,15 @@
 ---
 layout: page
-title: About
+title: О нас
 permalink: /about/
 ---
 
-Some information about you!
+Отдел аналитики RealWeb
 
-### More Information
+### Добавить инфу
 
 A place to include any other types of information that you'd like to include about yourself.
 
-### Contact me
+### Добавить email
 
 [email@domain.com](mailto:email@domain.com)
