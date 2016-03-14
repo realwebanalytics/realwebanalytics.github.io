@@ -8,7 +8,7 @@ permalink: /about/
 
 ### Добавить инфу
 
-A place to include any other types of information that you'd like to include about yourself.
+Здесь могла бы быть наша реклама
 
 ### Добавить email
 
