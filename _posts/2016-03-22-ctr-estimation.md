@@ -33,12 +33,12 @@ ID кампании | Клики | Показы | CTR
 На графике можно увидеть степень "уверенности" относительно значения CTR - чем больше показов, тем более точно мы можем говорить о границах CTR. 
 
 То есть тут мы оперируем уже не одним числом, как в таблице выше, а такой вот штукой:
-P(a< \theta <b) =  \int_a^b f(\theta )d\theta   P(a<θ<b)=∫baf(θ)dθ
+![alt text][int1]
 То есть, мы просто строим распределение вероятностей (находим функцию f, которая лучше всего описывала бы наш взгляд на CTR и с нужной вероятностью оцениваем границы, в которых находится истинное значение)
 ![alt text][logo2]
 
 Например, если мы знаем f, то такое выражение:
-\int_a^b f(\theta )d\theta > 0.95   ∫baf(θ)dθ > 0.95
+![alt text][int2]
 говорит о том, что с вероятностью более 95% истинное значение \theta лежит в интервале от **a** о **b**.
 
 
@@ -53,4 +53,6 @@ P(a< \theta <b) =  \int_a^b f(\theta )d\theta   P(a<θ<b)=∫baf(θ)dθ
 [тут]: https://en.wikipedia.org/wiki/Bayes%27_theorem
 [тут]: http://www.yudkowsky.net/rational/bayes
 [logo1]: https://m.realweb.ru/service/home/~/?auth=co&loc=ru&id=680&part=2
+[int1]: http://i76.fastpic.ru/big/2016/0322/98/6debab40a0d02f5c14bfce905d86f298.png
 [logo2]: https://www.chrisstucchio.com/blog_media/2013/bayesian_analysis_conversion_rates/posterior_distribution.png
+[int2]: http://i76.fastpic.ru/big/2016/0322/c9/21886866f8efa7ab6f1c6bc8feee46c9.png
